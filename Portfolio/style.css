@@ -297,6 +297,7 @@ h1 span
 .projets .images img {
     width: 300px;
     height: auto;
+    padding-top: 12px;
 }
 
 .projets .images .column{
