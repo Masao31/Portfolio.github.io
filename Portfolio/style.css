@@ -37,6 +37,7 @@ body {
     background-color: slateblue;
     top: 1;
     transition: top 0.3s;
+    z-index: 1;
 }
 .navbar .logo a
 {
